@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes">
+        <item>日排行榜</item>
+        <item>周排行榜</item>
+        <item>月排行榜</item>
+        <item>男频热榜</item>
+        <item>女频热榜</item>
+        <item>新秀周榜</item>
+    </string-array>
+</resources>
